@@ -6,5 +6,8 @@ public class Operacao {
 	      String numeroA = JOptionPane.showInputDialog(null, "Digite um número:");
 	      String numeroB = JOptionPane.showInputDialog(null, "Digite o segundo número:");
 	      
+	      double a = Double.parseDouble(numeroA);
+	      double b = Double.parseDouble(numeroB);
+	      
 	 }    
 }
