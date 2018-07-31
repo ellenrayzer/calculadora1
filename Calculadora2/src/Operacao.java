@@ -9,5 +9,7 @@ public class Operacao {
 	      double a = Double.parseDouble(numeroA);
 	      double b = Double.parseDouble(numeroB);
 	      
+	      double soma = a + b;
+	      
 	 }    
 }
