@@ -11,6 +11,7 @@ public class Operacao {
 	      
 	      double soma = a + b;
 	      double sub = a - b;
+	      double mult = a * b;
 	      
 	 }    
 }
