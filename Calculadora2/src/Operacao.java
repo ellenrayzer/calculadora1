@@ -10,6 +10,7 @@ public class Operacao {
 	      double b = Double.parseDouble(numeroB);
 	      
 	      double soma = a + b;
+	      double sub = a - b;
 	      
 	 }    
 }
