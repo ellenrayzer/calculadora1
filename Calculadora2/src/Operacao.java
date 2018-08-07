@@ -14,5 +14,12 @@ public class Operacao {
 	      double mult = a * b;
 	      double div = a / b;
 	      
+	      JOptionPane.showMessageDialog(null,
+	              "Soma: " + soma + "\n" +
+	              "Subtração: " + sub + "\n" +
+	              "Multiplicação: " + mult + "\n" +
+	              "Divisão: " + div
+	        );
+	      
 	 }    
 }
